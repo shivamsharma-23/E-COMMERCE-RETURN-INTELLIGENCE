@@ -1,0 +1,2 @@
+# Optional Big Data PySpark requirements for cluster/distributed execution
+pyspark>=3.5.0
