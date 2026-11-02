@@ -1,0 +1,31 @@
+OrderID,CustomerID,State,City,OrderDate,OrderSeason,OrderDayOfWeek,ProductCategory,ProductSubCategory,UnitPrice,Quantity,DiscountPercent,PaymentMethod,DeviceType,MembershipTier,ShippingDays
+ORD-011153-X,CUST-01421,ID,Fairview,2/24/2022,Winter,Thursday,Clothing,Bottoms,127.06,2,15,Debit Card,Desktop,Platinum,2
+ORD-010354,CUST-05646,NE,Clinton,12/6/2024,Winter,Friday,Electronics,Headphones,573.23,4,0,Credit Card,Mobile,Silver,2
+ORD-011334,CUST-02897,AK,Georgetown,11/15/2024,Fall,Friday,Health & Wellness,Fitness Accessories,115.24,1,15,Apple Pay,Mobile,Platinum,4
+ORD-010906,CUST-04542,PA,Erie,11/4/2024,Fall,Monday,Electronics,Smartphones,326.81,1,0,Apple Pay,Desktop,Silver,4
+ORD-011290,CUST-02104,CA,San Francisco,12/27/2022,Winter,Tuesday,Books,Self-Help,25.96,1,0,Credit Card,Mobile,Platinum,3
+ORD-011274,CUST-01904,CT,Bristol,11/12/2022,Fall,Saturday,Health & Wellness,Fitness Accessories,8.78,5,10,Buy Now Pay Later,Desktop,Bronze,4
+ORD-010939,CUST-07386,NV,Greenville,5/6/2024,Spring,Monday,Toys & Games,Board Games,122.81,1,10,Debit Card,Tablet,Platinum,4
+ORD-011732,CUST-08058,NC,Durham,7/27/2024,Summer,Saturday,Electronics,Laptops,855.43,1,0,Buy Now Pay Later,Desktop,Gold,1
+ORD-010066,CUST-03431,RI,Clinton,3/20/2022,Spring,Sunday,Sports & Outdoors,Team Sports,149.25,1,20,Apple Pay,Tablet,Gold,2
+ORD-011324,CUST-06807,VA,Springfield,1/25/2023,Winter,Wednesday,Beauty & Personal Care,Haircare,46.98,1,0,Apple Pay,Mobile,Platinum,5
+ORD-010057,CUST-05175,ID,Bristol,1/24/2023,Winter,Tuesday,Toys & Games,Action Figures,96.76,1,0,Buy Now Pay Later,Desktop,Gold,4
+ORD-011293,CUST-06938,VA,Clinton,5/12/2023,Spring,Friday,Health & Wellness,Medical Devices,89.48,1,25,Google Pay,Tablet,Silver,3
+ORD-011119,CUST-07862,ND,Springfield,12/15/2023,Winter,Friday,Electronics,Smartphones,168.77,3,0,Credit Card,Mobile,Bronze,4
+ORD-010585,CUST-01263,TN,Greenville,2/22/2022,Winter,Tuesday,Books,Science,31.32,1,10,Google Pay,Mobile,Silver,3
+ORD-010375,CUST-08724,MD,Greenville,10/19/2022,Fall,Wednesday,Home & Kitchen,Decor,171.14,1,10,Debit Card,Mobile,Silver,6
+ORD-010276,CUST-03638,NC,Durham,12/6/2023,Winter,Wednesday,Health & Wellness,Mental Wellness,61.1,1,0,Google Pay,Desktop,Silver,1
+ORD-010747,CUST-02684,UT,Salem,3/29/2022,Spring,Tuesday,Clothing,Footwear,91.68,1,0,Apple Pay,Tablet,Bronze,5
+ORD-010129,CUST-04845,NC,Raleigh,8/22/2022,Summer,Monday,Grocery,Beverages,32.5,1,0,Google Pay,Tablet,Bronze,3
+ORD-011647,CUST-06204,IA,Bristol,1/19/2022,Winter,Wednesday,Beauty & Personal Care,Oral Care,20.35,1,0,Buy Now Pay Later,Tablet,Gold,3
+ORD-010380-X,CUST-04142,NE,Salem,10/31/2023,Fall,Tuesday,Books,History,47.08,1,0,Credit Card,Mobile,Bronze,3
+ORD-010675,CUST-04232,SD,Clinton,12/29/2023,Winter,Friday,Electronics,Smartphones,191.72,1,0,Apple Pay,Desktop,Gold,3
+ORD-011665,CUST-07107,NM,Madison,5/12/2023,Spring,Friday,Sports & Outdoors,Cycling,294.59,2,0,PayPal,Mobile,Platinum,2
+ORD-011637-X,CUST-06598,PA,Philadelphia,5/11/2023,Spring,Thursday,Toys & Games,Educational,76.59,4,0,Google Pay,Desktop,Platinum,4
+ORD-011084,CUST-08737,CA,San Francisco,4/21/2024,Spring,Sunday,Electronics,Smartphones,583.54,1,0,Gift Card,Tablet,Bronze,2
+ORD-010541-X,CUST-04215,CA,Los Angeles,12/27/2022,Winter,Tuesday,Grocery,Beverages,32.93,4,25,Gift Card,Desktop,Silver,3
+ORD-010100,CUST-07856,FL,Orlando,5/23/2022,Spring,Monday,Beauty & Personal Care,Haircare,62.56,1,10,PayPal,Tablet,Platinum,2
+ORD-011180,CUST-01815,HI,Springfield,12/6/2024,Winter,Friday,Electronics,Smartphones,638.64,1,0,Gift Card,Mobile,Bronze,3
+ORD-010965,CUST-07434,OK,Salem,11/13/2022,Fall,Sunday,Toys & Games,Action Figures,119.82,1,5,Apple Pay,Desktop,Silver,4
+ORD-010793,CUST-03998,MI,Madison,9/20/2023,Fall,Wednesday,Beauty & Personal Care,Fragrances,31.41,1,20,Google Pay,Tablet,Bronze,4
+ORD-010030,CUST-01669,WA,Tacoma,4/13/2024,Spring,Saturday,Electronics,Cameras,1033.88,1,0,PayPal,Mobile,Gold,2

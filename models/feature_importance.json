@@ -1,0 +1,218 @@
+{
+  "detailed": [
+    {
+      "feature": "num__UnitPrice",
+      "importance": 0.083256
+    },
+    {
+      "feature": "num__EffectiveUnitPrice",
+      "importance": 0.066756
+    },
+    {
+      "feature": "num__TotalAmount",
+      "importance": 0.065007
+    },
+    {
+      "feature": "num__FinalAmount",
+      "importance": 0.058829
+    },
+    {
+      "feature": "num__ShippingPerDollar",
+      "importance": 0.052826
+    },
+    {
+      "feature": "num__OrderMonth",
+      "importance": 0.040805
+    },
+    {
+      "feature": "num__DiscountRatio",
+      "importance": 0.033322
+    },
+    {
+      "feature": "num__ShippingDays",
+      "importance": 0.033271
+    },
+    {
+      "feature": "num__DiscountAmount",
+      "importance": 0.02232
+    },
+    {
+      "feature": "cat__ProductCategory_Clothing",
+      "importance": 0.018406
+    },
+    {
+      "feature": "num__DiscountPercent",
+      "importance": 0.017425
+    },
+    {
+      "feature": "cat__PaymentMethod_Credit Card",
+      "importance": 0.014059
+    },
+    {
+      "feature": "cat__ProductCategory_Grocery",
+      "importance": 0.012919
+    },
+    {
+      "feature": "cat__OrderDayOfWeek_Tuesday",
+      "importance": 0.011992
+    },
+    {
+      "feature": "num__Quantity",
+      "importance": 0.009808
+    },
+    {
+      "feature": "cat__PaymentMethod_Gift Card",
+      "importance": 0.009756
+    },
+    {
+      "feature": "cat__ProductSubCategory_Science",
+      "importance": 0.00949
+    },
+    {
+      "feature": "cat__ProductSubCategory_Tops",
+      "importance": 0.009281
+    },
+    {
+      "feature": "cat__OrderDayOfWeek_Monday",
+      "importance": 0.008847
+    },
+    {
+      "feature": "cat__OrderDayOfWeek_Saturday",
+      "importance": 0.008786
+    },
+    {
+      "feature": "cat__OrderDayOfWeek_Thursday",
+      "importance": 0.008506
+    },
+    {
+      "feature": "cat__City_Springfield",
+      "importance": 0.008257
+    },
+    {
+      "feature": "cat__State_WA",
+      "importance": 0.008167
+    },
+    {
+      "feature": "cat__MembershipTier_Gold",
+      "importance": 0.007433
+    },
+    {
+      "feature": "cat__City_Salem",
+      "importance": 0.007393
+    },
+    {
+      "feature": "cat__DeviceType_Desktop",
+      "importance": 0.006629
+    },
+    {
+      "feature": "cat__OrderSeason_Winter",
+      "importance": 0.006612
+    },
+    {
+      "feature": "cat__State_MO",
+      "importance": 0.006201
+    },
+    {
+      "feature": "cat__DeviceType_Mobile",
+      "importance": 0.006095
+    },
+    {
+      "feature": "cat__ProductCategory_Health & Wellness",
+      "importance": 0.006063
+    }
+  ],
+  "aggregated": [
+    {
+      "feature": "State",
+      "importance": 0.1148
+    },
+    {
+      "feature": "ProductSubCategory",
+      "importance": 0.0982
+    },
+    {
+      "feature": "UnitPrice",
+      "importance": 0.0833
+    },
+    {
+      "feature": "City",
+      "importance": 0.0679
+    },
+    {
+      "feature": "EffectiveUnitPrice",
+      "importance": 0.0668
+    },
+    {
+      "feature": "TotalAmount",
+      "importance": 0.065
+    },
+    {
+      "feature": "ProductCategory",
+      "importance": 0.0627
+    },
+    {
+      "feature": "FinalAmount",
+      "importance": 0.0588
+    },
+    {
+      "feature": "ShippingPerDollar",
+      "importance": 0.0528
+    },
+    {
+      "feature": "OrderDayOfWeek",
+      "importance": 0.0519
+    },
+    {
+      "feature": "PaymentMethod",
+      "importance": 0.044
+    },
+    {
+      "feature": "OrderMonth",
+      "importance": 0.0408
+    },
+    {
+      "feature": "DiscountRatio",
+      "importance": 0.0333
+    },
+    {
+      "feature": "ShippingDays",
+      "importance": 0.0333
+    },
+    {
+      "feature": "MembershipTier",
+      "importance": 0.0236
+    },
+    {
+      "feature": "DiscountAmount",
+      "importance": 0.0223
+    },
+    {
+      "feature": "OrderSeason",
+      "importance": 0.0212
+    },
+    {
+      "feature": "DeviceType",
+      "importance": 0.0183
+    },
+    {
+      "feature": "DiscountPercent",
+      "importance": 0.0174
+    },
+    {
+      "feature": "Quantity",
+      "importance": 0.0098
+    },
+    {
+      "feature": "IsWeekend",
+      "importance": 0.006
+    },
+    {
+      "feature": "IsHighDiscount",
+      "importance": 0.0043
+    },
+    {
+      "feature": "IsBulkOrder",
+      "importance": 0.0034
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "framework": "PySpark 4.3.0",
+  "execution_mode": "Spark Local Multi-Core Distributed DataFrame",
+  "timestamp": "2026-11-02T15:31:30.177612",
+  "total_records": 2000,
+  "clean_records": 1980,
+  "selected_model": "Spark MLlib Random Forest",
+  "models": {
+    "Logistic Regression": {
+      "accuracy": 0.9377,
+      "precision": 0.8792,
+      "recall": 0.9377,
+      "f1_score": 0.9075,
+      "roc_auc": 0.5758,
+      "pr_auc": 0.0712
+    },
+    "Random Forest": {
+      "accuracy": 0.9377,
+      "precision": 0.8792,
+      "recall": 0.9377,
+      "f1_score": 0.9075,
+      "roc_auc": 0.6637,
+      "pr_auc": 0.2508
+    }
+  }
+}

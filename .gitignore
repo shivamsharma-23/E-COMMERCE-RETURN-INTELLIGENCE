@@ -1,0 +1,24 @@
+# Python artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+.venv/
+venv/
+ENV/
+.pytest_cache/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Spark temporary directories
+derby.log
+metastore_db/
+spark-warehouse/
+
+# OS artifacts
+.DS_Store
+Thumbs.db
+desktop.ini

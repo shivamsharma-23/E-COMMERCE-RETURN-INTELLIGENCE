@@ -1,0 +1,298 @@
+State,City,OrderDate,OrderSeason,OrderDayOfWeek,ProductCategory,ProductSubCategory,UnitPrice,Quantity,TotalAmount,DiscountPercent,DiscountAmount,FinalAmount,PaymentMethod,DeviceType,MembershipTier,ShippingDays,OrderMonth,IsWeekend,DiscountRatio,EffectiveUnitPrice,ShippingPerDollar,IsHighDiscount,IsBulkOrder,Actual_Returned,Predicted_Probability,Predicted_Returned
+MT,Greenville,7/13/2022,Summer,Wednesday,Home & Kitchen,Decor,260.49,2,520.98,0,0.0,520.98,PayPal,Tablet,Gold,3,7,0,0.0,260.4886975565122,0.00575837833010138,0,0,0,0.4256,0
+AL,Greenville,1/31/2022,Winter,Monday,Sports & Outdoors,Cycling,166.42,1,166.42,0,0.0,166.42,Google Pay,Desktop,Bronze,3,1,0,0.0,166.41833581664181,0.018026678402434902,0,0,0,0.4246,0
+NE,Clinton,12/4/2024,Winter,Wednesday,Beauty & Personal Care,Oral Care,70.26,1,70.26,0,0.0,70.26,Gift Card,Mobile,Bronze,3,12,0,0.0,70.25929740702593,0.04269854217214031,0,0,0,0.2876,0
+MI,Madison,6/23/2022,Summer,Thursday,Beauty & Personal Care,Fragrances,52.08,1,52.08,0,0.0,52.08,Credit Card,Mobile,Gold,2,6,0,0.0,52.079479205207946,0.038402450383554075,0,0,1,0.6447,1
+IN,Georgetown,10/21/2022,Fall,Friday,Beauty & Personal Care,Makeup,60.33,2,120.66,15,18.1,102.56,Credit Card,Mobile,Gold,2,10,0,0.1500082753183926,51.27974360128199,0.019500778129799324,0,0,1,0.3379,0
+IL,Chicago,6/10/2024,Summer,Monday,Beauty & Personal Care,Fragrances,38.78,1,38.78,0,0.0,38.78,Google Pay,Tablet,Gold,3,6,0,0.0,38.77961220387796,0.07735944369276851,0,0,0,0.1528,0
+MI,Salem,11/3/2022,Fall,Thursday,Grocery,Bakery,31.77,1,31.77,5,1.59,30.18,Debit Card,Mobile,Platinum,3,11,0,0.0500471986001893,30.179698203017967,0.0994035455919332,0,0,0,0.0751,0
+MT,Clinton,11/21/2024,Fall,Thursday,Sports & Outdoors,Team Sports,228.33,3,684.99,10,68.5,616.49,PayPal,Mobile,Silver,6,11,0,0.10000145841543003,205.49598168006108,0.009732517806736236,0,1,0,0.45,0
+HI,Clinton,9/15/2023,Fall,Friday,Automotive,Tools,156.27,1,156.27,10,15.63,140.64,Buy Now Pay Later,Desktop,Bronze,3,9,0,0.10001919114230555,140.63859361406384,0.021331056503764472,0,0,0,0.4478,0
+NV,Clinton,10/10/2022,Fall,Monday,Grocery,Snacks,47.89,3,143.67,0,0.0,143.67,Google Pay,Desktop,Gold,6,10,0,0.0,47.88984036719877,0.041762369195909435,0,1,0,0.451,0
+AZ,Fairview,4/27/2023,Spring,Thursday,Grocery,Snacks,40.19,1,40.19,0,0.0,40.19,Credit Card,Mobile,Platinum,3,4,0,0.0,40.189598104018955,0.07464541561447732,0,0,0,0.1431,0
+GA,Macon,10/4/2022,Fall,Tuesday,Toys & Games,Action Figures,9.99,1,9.99,0,0.0,9.99,Buy Now Pay Later,Desktop,Bronze,4,10,0,0.0,9.98990010099899,0.4003999995996,0,0,0,0.1343,0
+WA,Seattle,11/4/2022,Fall,Friday,Beauty & Personal Care,Fragrances,32.99,5,164.95,0,0.0,164.95,Debit Card,Mobile,Gold,3,11,0,0.0,32.98993402013196,0.01818732839118955,0,1,0,0.2659,0
+MN,Clinton,5/30/2024,Spring,Thursday,Health & Wellness,Supplements,17.74,1,17.74,0,0.0,17.74,Debit Card,Tablet,Platinum,2,5,0,0.0,17.73982260177398,0.11273950803860879,0,0,0,0.181,0
+WI,Salem,6/20/2022,Summer,Monday,Health & Wellness,Mental Wellness,140.04,2,280.08,5,14.0,266.08,Buy Now Pay Later,Desktop,Bronze,5,6,0,0.049985716581486844,133.03933480332597,0.018791340243861237,0,0,0,0.4125,0
+WY,Fairview,4/9/2024,Spring,Tuesday,Books,Science,34.44,2,68.88,0,0.0,68.88,PayPal,Desktop,Bronze,6,4,0,0.0,34.43982780086099,0.08710800129094058,0,0,0,0.1025,0
+PA,Allentown,12/20/2023,Winter,Wednesday,Books,Non-Fiction,36.83,2,73.66,0,0.0,73.66,Credit Card,Tablet,Platinum,2,12,0,0.0,36.829815850920745,0.027151774755393054,0,0,0,0.156,0
+MS,Georgetown,4/9/2022,Spring,Saturday,Books,Non-Fiction,25.81,1,25.81,0,0.0,25.81,PayPal,Mobile,Silver,4,4,1,0.0,25.80974190258097,0.15497863038410292,0,0,0,0.0953,0
+GA,Savannah,5/26/2023,Spring,Friday,Automotive,Tools,197.68,1,197.68,20,39.54,158.14,Debit Card,Mobile,Platinum,7,5,0,0.2000202246043998,158.1384186158138,0.04426457289334938,1,0,0,0.3307,0
+CA,San Francisco,1/24/2024,Winter,Wednesday,Health & Wellness,Vitamins,128.79,1,128.79,0,0.0,128.79,Apple Pay,Tablet,Platinum,2,1,0,0.0,128.78871211287884,0.015529154784598589,0,0,0,0.5222,1
+HI,Fairview,8/11/2022,Summer,Thursday,Books,Non-Fiction,17.9,1,17.9,20,3.58,14.32,Apple Pay,Tablet,Platinum,1,8,0,0.19999988826821888,14.319856801431985,0.06983235346902691,1,0,0,0.1332,0
+ID,Bristol,7/16/2022,Summer,Saturday,Clothing,Accessories,133.64,1,133.64,15,20.05,113.59,Buy Now Pay Later,Desktop,Gold,2,7,1,0.15002991993191261,113.58886411135889,0.017607182180897775,0,0,1,0.3567,0
+AZ,Madison,4/23/2022,Spring,Saturday,Grocery,Snacks,4.38,1,4.38,0,0.0,4.38,Debit Card,Tablet,Silver,3,4,1,0.0,4.379956200437995,0.6849299430823218,0,0,0,0.1592,0
+AZ,Salem,8/17/2023,Summer,Thursday,Grocery,Snacks,18.2,2,36.4,5,1.82,34.58,Apple Pay,Desktop,Gold,2,8,0,0.04999998626374004,17.289913550432246,0.05783688321663296,0,0,0,0.1056,0
+OR,Fairview,3/28/2022,Spring,Monday,Automotive,Car Accessories,183.57,2,367.14,0,0.0,367.14,Apple Pay,Desktop,Bronze,4,3,0,0.0,183.5690821545892,0.010895026123685076,0,0,0,0.4118,0
+OK,Springfield,9/12/2023,Fall,Tuesday,Grocery,Dairy,12.05,1,12.05,0,0.0,12.05,Debit Card,Mobile,Gold,5,9,0,0.0,12.049879501204988,0.4149374149896971,0,0,0,0.0838,0
+TN,Greenville,10/22/2024,Fall,Tuesday,Clothing,Accessories,13.17,1,13.17,0,0.0,13.17,Apple Pay,Tablet,Silver,1,10,0,0.0,13.169868301316987,0.0759300866134498,0,0,0,0.2729,0
+UT,Salem,4/14/2022,Spring,Thursday,Automotive,Car Care,271.02,1,271.02,5,13.55,257.47,PayPal,Desktop,Platinum,3,4,0,0.04999630839066091,257.4674253257468,0.011651842480605799,0,0,0,0.3257,0
+LA,Bristol,3/5/2022,Spring,Saturday,Health & Wellness,Mental Wellness,68.11,1,68.11,20,13.62,54.49,PayPal,Desktop,Gold,5,3,1,0.1999706063763608,54.48945510544895,0.0917599391154452,1,0,0,0.2677,0
+MS,Clinton,5/22/2022,Spring,Sunday,Electronics,Tablets,931.81,2,1863.62,5,93.18,1770.44,Debit Card,Tablet,Platinum,1,5,1,0.04999946314163047,885.2155739221304,0.000564831338171125,0,0,0,0.3102,0
+AR,Clinton,3/8/2023,Spring,Wednesday,Beauty & Personal Care,Haircare,12.09,1,12.09,0,0.0,12.09,PayPal,Tablet,Silver,4,3,0,0.0,12.089879101208988,0.3308516700978742,0,0,0,0.2789,0
+MD,Fairview,12/4/2024,Winter,Wednesday,Electronics,Laptops,149.46,1,149.46,10,14.95,134.51,Apple Pay,Tablet,Silver,8,12,0,0.10002675632097173,134.50865491345084,0.059475127538835215,0,0,0,0.3103,0
+MN,Springfield,1/9/2023,Winter,Monday,Sports & Outdoors,Team Sports,396.22,1,396.22,0,0.0,396.22,Debit Card,Desktop,Gold,4,1,0,0.0,396.2160378396216,0.010095401289803612,0,0,0,0.4192,0
+FL,Miami,9/28/2022,Fall,Wednesday,Clothing,Footwear,93.84,5,469.2,0,0.0,469.2,Gift Card,Tablet,Silver,2,9,0,0.0,93.83981232037536,0.004262574504207705,0,1,0,0.4776,1
+NC,Charlotte,1/5/2024,Winter,Friday,Electronics,Headphones,1148.3,1,1148.3,0,0.0,1148.3,Debit Card,Desktop,Platinum,6,1,0,0.0,1148.2885171148287,0.005225115342461767,0,0,1,0.4767,1
+IA,Madison,10/23/2024,Fall,Wednesday,Automotive,Electronics,47.17,1,47.17,5,2.36,44.81,PayPal,Tablet,Bronze,4,10,0,0.050031789266103605,44.809551904480955,0.08926576896546105,0,0,0,0.3814,0
+GA,Savannah,7/9/2022,Summer,Saturday,Automotive,Parts,44.96,1,44.96,0,0.0,44.96,Apple Pay,Desktop,Silver,4,7,1,0.0,44.95955040449595,0.08896795174200361,0,0,0,0.3376,0
+MI,Madison,1/17/2025,Winter,Friday,Home & Kitchen,Decor,231.79,1,231.79,0,0.0,231.79,Credit Card,Desktop,Silver,3,1,0,0.0,231.78768212317874,0.012942749344546816,0,0,1,0.3619,0
+AL,Fairview,5/10/2023,Spring,Wednesday,Home & Kitchen,Bedding,329.72,1,329.72,15,49.46,280.26,Gift Card,Mobile,Platinum,1,5,0,0.15000606120326151,280.2571974280257,0.003568115194172726,0,0,0,0.2822,0
+NJ,Madison,11/26/2022,Fall,Saturday,Electronics,Cameras,253.91,1,253.91,15,38.09,215.82,Buy Now Pay Later,Tablet,Platinum,3,11,1,0.15001377850365177,215.81784182158177,0.013900471971991847,0,0,0,0.3152,0
+GA,Macon,7/29/2022,Summer,Friday,Health & Wellness,Medical Devices,58.55,2,117.1,5,5.86,111.24,Gift Card,Mobile,Gold,5,7,0,0.05004269427474857,55.61972190139049,0.0449478564412211,0,0,0,0.4638,0
+MD,Greenville,12/6/2022,Winter,Tuesday,Health & Wellness,Vitamins,125.38,1,125.38,10,12.54,112.84,PayPal,Mobile,Platinum,1,12,0,0.10001594353039212,112.83887161128388,0.008862104850930091,0,0,0,0.2546,0
+WY,Salem,12/11/2023,Winter,Monday,Health & Wellness,Vitamins,120.11,1,120.11,10,12.01,108.1,Gift Card,Mobile,Silver,4,12,0,0.09999166597355208,108.09891901080988,0.037002771785127495,0,0,0,0.3567,0
+NE,Georgetown,1/22/2023,Winter,Sunday,Beauty & Personal Care,Makeup,41.6,1,41.6,0,0.0,41.6,Google Pay,Mobile,Silver,4,1,1,0.0,41.59958400415996,0.09615382303994638,0,0,0,0.4588,0
+WV,Madison,9/26/2024,Fall,Thursday,Books,History,13.47,1,13.47,20,2.69,10.78,Buy Now Pay Later,Tablet,Gold,5,9,0,0.1997028955435074,10.779892201077988,0.4638214621322244,1,0,0,0.1418,0
+SC,Fairview,10/9/2022,Fall,Sunday,Grocery,Snacks,29.77,1,29.77,0,0.0,29.77,Apple Pay,Tablet,Silver,3,10,1,0.0,29.769702302976967,0.10077255600518778,0,0,0,0.0621,0
+MS,Georgetown,7/3/2023,Summer,Monday,Beauty & Personal Care,Oral Care,39.5,1,39.5,0,0.0,39.5,Buy Now Pay Later,Mobile,Bronze,4,7,0,0.0,39.49960500394996,0.10126579714789945,0,0,0,0.2061,0
+AZ,Salem,5/9/2024,Spring,Thursday,Beauty & Personal Care,Haircare,76.78,1,76.78,5,3.84,72.94,Buy Now Pay Later,Tablet,Platinum,6,5,0,0.05001301771125062,72.93927060729392,0.08225938000282698,0,0,0,0.3837,0
+RI,Springfield,3/7/2024,Spring,Thursday,Electronics,Tablets,668.19,1,668.19,20,133.64,534.55,PayPal,Desktop,Gold,6,3,0,0.20000299016742257,534.5446545534544,0.011224394140409802,1,0,0,0.402,0
+NV,Greenville,11/2/2022,Fall,Wednesday,Sports & Outdoors,Cycling,168.61,1,168.61,0,0.0,168.61,Gift Card,Tablet,Platinum,5,11,0,0.0,168.60831391686082,0.02965422990011091,0,0,0,0.3948,0
+MD,Salem,3/2/2023,Spring,Thursday,Home & Kitchen,Storage,238.12,1,238.12,0,0.0,238.12,Debit Card,Tablet,Gold,2,3,0,0.0,238.11761882381174,0.008399126138118338,0,0,0,0.3601,0
+SD,Fairview,10/9/2022,Fall,Sunday,Automotive,Parts,145.17,1,145.17,0,0.0,145.17,PayPal,Desktop,Platinum,3,10,1,0.0,145.16854831451684,0.020665425317529428,0,0,0,0.4029,0
+OH,Toledo,2/29/2024,Winter,Thursday,Clothing,Accessories,167.08,2,334.16,10,33.42,300.74,Apple Pay,Tablet,Bronze,4,2,0,0.10001196732068568,150.36924815375923,0.013300524928492222,0,0,0,0.4803,1
+AR,Springfield,1/20/2022,Winter,Thursday,Toys & Games,Action Figures,137.19,1,137.19,0,0.0,137.19,Credit Card,Mobile,Platinum,1,1,0,0.0,137.18862811371886,0.007289160486248233,0,0,0,0.4183,0
+DE,Springfield,2/27/2023,Winter,Monday,Toys & Games,Educational,103.18,1,103.18,0,0.0,103.18,Gift Card,Mobile,Bronze,3,2,0,0.0,103.17896821031789,0.02907539939180079,0,0,0,0.4432,0
+AR,Georgetown,2/15/2023,Winter,Wednesday,Grocery,Dairy,42.67,1,42.67,0,0.0,42.67,PayPal,Desktop,Gold,5,2,0,0.0,42.669573304266954,0.1171783179802395,0,0,0,0.358,0
+NE,Clinton,12/8/2024,Winter,Sunday,Clothing,Footwear,131.01,1,131.01,20,26.2,104.81,Apple Pay,Mobile,Bronze,3,12,1,0.19998471872492796,104.80895191048089,0.028623220243944255,1,0,0,0.2251,0
+DE,Fairview,6/10/2024,Summer,Monday,Health & Wellness,Medical Devices,125.47,1,125.47,5,6.27,119.2,Buy Now Pay Later,Tablet,Bronze,5,6,0,0.049972100902837255,119.19880801191988,0.04194630520584688,0,0,0,0.4938,1
+CO,Clinton,6/14/2022,Summer,Tuesday,Health & Wellness,Medical Devices,42.04,1,42.04,0,0.0,42.04,Apple Pay,Tablet,Gold,3,6,0,0.0,42.03957960420396,0.071360591969412,0,0,0,0.2993,0
+OH,Cincinnati,5/27/2022,Spring,Friday,Home & Kitchen,Storage,212.93,1,212.93,0,0.0,212.93,Credit Card,Desktop,Bronze,2,5,0,0.0,212.92787072129278,0.009392757742321057,0,0,0,0.3339,0
+UT,Bristol,11/22/2022,Fall,Tuesday,Automotive,Car Accessories,227.56,1,227.56,0,0.0,227.56,Apple Pay,Desktop,Gold,5,11,0,0.0,227.55772442275577,0.02197222613938187,0,0,0,0.2828,0
+NC,Durham,2/28/2024,Winter,Wednesday,Sports & Outdoors,Cycling,150.56,1,150.56,5,7.53,143.03,Buy Now Pay Later,Mobile,Silver,4,2,0,0.050013280418884136,143.02856971430285,0.02796615898999098,0,0,0,0.4504,0
+SD,Fairview,1/16/2025,Winter,Thursday,Grocery,Dairy,45.36,4,181.44,0,0.0,181.44,Gift Card,Tablet,Silver,3,1,0,0.0,45.3598866002835,0.016534390623104574,0,1,0,0.3474,0
+WV,Madison,8/18/2023,Summer,Friday,Home & Kitchen,Appliances,217.29,2,434.58,10,43.46,391.12,PayPal,Tablet,Platinum,4,8,0,0.10000459984342125,195.55902220488898,0.010227040033057884,0,0,0,0.5021,1
+MA,Springfield,7/19/2024,Summer,Friday,Books,Non-Fiction,41.62,1,41.62,0,0.0,41.62,PayPal,Mobile,Silver,2,7,0,0.0,41.619583804161955,0.048053808732866715,0,0,0,0.3263,0
+AL,Madison,2/8/2023,Winter,Wednesday,Home & Kitchen,Cookware,21.27,1,21.27,0,0.0,21.27,PayPal,Desktop,Platinum,5,2,0,0.0,21.26978730212698,0.23507276207204417,0,0,0,0.0846,0
+RI,Georgetown,7/9/2024,Summer,Tuesday,Automotive,Electronics,203.11,1,203.11,0,0.0,203.11,Debit Card,Desktop,Gold,8,7,0,0.0,203.1079689203108,0.03938752206255122,0,0,0,0.34,0
+AR,Bristol,6/7/2024,Summer,Friday,Electronics,Laptops,948.77,1,948.77,20,189.75,759.02,Debit Card,Tablet,Silver,5,6,0,0.19999578190714523,759.0124098759012,0.00658744161435217,1,0,0,0.4013,0
+MT,Georgetown,4/17/2023,Spring,Monday,Home & Kitchen,Cookware,379.99,1,379.99,0,0.0,379.99,Credit Card,Tablet,Platinum,3,4,0,0.0,379.9862001379986,0.007894944396038201,0,0,0,0.3377,0
+ID,Georgetown,1/1/2024,Winter,Monday,Health & Wellness,Vitamins,28.75,3,86.25,0,0.0,86.25,PayPal,Desktop,Gold,3,1,0,0.0,28.74990416698611,0.034782604662886414,0,1,0,0.2404,0
+HI,Greenville,2/7/2024,Winter,Wednesday,Beauty & Personal Care,Haircare,10.32,1,10.32,0,0.0,10.32,Buy Now Pay Later,Tablet,Gold,3,2,0,0.0,10.31989680103199,0.29069739273508455,0,0,0,0.3265,0
+SC,Fairview,10/9/2022,Fall,Sunday,Grocery,Snacks,29.77,1,29.77,0,0.0,29.77,Apple Pay,Tablet,Silver,3,10,1,0.0,29.769702302976967,0.10077255600518778,0,0,0,0.0621,0
+VT,Salem,10/28/2024,Fall,Monday,Electronics,Headphones,563.3,2,1126.6,25,281.65,844.95,Gift Card,Desktop,Platinum,3,10,0,0.24999999778093382,422.47288763556185,0.0035505059050771537,1,0,0,0.1959,0
+IN,Clinton,2/2/2025,Winter,Sunday,Beauty & Personal Care,Skincare,35.51,1,35.51,0,0.0,35.51,Credit Card,Desktop,Platinum,4,2,1,0.0,35.509644903550964,0.11264429382024956,0,0,0,0.1568,0
+NC,Greensboro,1/6/2023,Winter,Friday,Sports & Outdoors,Cycling,72.46,1,72.46,0,0.0,72.46,Debit Card,Mobile,Gold,4,1,0,0.0,72.45927540724591,0.055202862930877325,0,0,0,0.4181,0
+AL,Greenville,5/11/2022,Spring,Wednesday,Clothing,Accessories,94.21,1,94.21,0,0.0,94.21,Buy Now Pay Later,Desktop,Gold,5,5,0,0.0,94.20905790942089,0.05307291656162652,0,0,1,0.611,1
+MO,Clinton,5/23/2023,Spring,Tuesday,Sports & Outdoors,Water Sports,127.72,1,127.72,20,25.54,102.18,Debit Card,Tablet,Bronze,4,5,0,0.19996866583395975,102.17897821021789,0.039146600200959066,1,0,0,0.3403,0
+SD,Greenville,2/29/2024,Winter,Thursday,Beauty & Personal Care,Oral Care,75.11,2,150.22,10,15.02,135.2,Apple Pay,Tablet,Gold,3,2,0,0.09998667953756626,67.59966200168998,0.02218934747120211,0,0,0,0.5242,1
+MS,Greenville,4/23/2023,Spring,Sunday,Beauty & Personal Care,Haircare,40.01,2,80.02,10,8.0,72.02,Apple Pay,Mobile,Gold,5,4,1,0.09997499375468712,36.009819950900244,0.069425150038163,0,0,0,0.2196,0
+WV,Salem,7/15/2024,Summer,Monday,Sports & Outdoors,Fitness Equipment,230.24,1,230.24,10,23.02,207.22,Credit Card,Desktop,Gold,4,7,0,0.09998262248164426,207.21792782072177,0.019303155134487254,0,0,0,0.3067,0
+AK,Clinton,8/7/2023,Summer,Monday,Automotive,Electronics,34.0,1,34.0,0,0.0,34.0,Credit Card,Tablet,Platinum,4,8,0,0.0,33.99966000339997,0.11764702422146345,0,0,0,0.1192,0
+HI,Bristol,1/25/2022,Winter,Tuesday,Books,History,39.53,1,39.53,5,1.98,37.55,Apple Pay,Mobile,Bronze,4,1,0,0.05008852767808558,37.549624503754956,0.10652460545283476,0,0,0,0.1335,0
+OH,Cleveland,5/18/2023,Spring,Thursday,Automotive,Car Care,204.89,1,204.89,0,0.0,204.89,Debit Card,Desktop,Gold,4,5,0,0.0,204.88795112048876,0.019522669748515315,0,0,0,0.3982,0
+NM,Georgetown,9/17/2024,Fall,Tuesday,Health & Wellness,Supplements,20.14,2,40.28,0,0.0,40.28,Buy Now Pay Later,Desktop,Gold,3,9,0,0.0,20.139899300503497,0.07447863096359707,0,0,0,0.1312,0
+NJ,Clinton,11/28/2023,Fall,Tuesday,Beauty & Personal Care,Skincare,70.32,1,70.32,0,0.0,70.32,PayPal,Mobile,Platinum,2,11,0,0.0,70.31929680703192,0.028441406649401785,0,0,0,0.3422,0
+NM,Greenville,4/22/2022,Spring,Friday,Books,Science,45.31,1,45.31,5,2.27,43.04,Gift Card,Tablet,Platinum,3,4,0,0.050099304767313,43.039569604303956,0.0697025860356445,0,0,0,0.2911,0
+OH,Toledo,6/25/2023,Summer,Sunday,Health & Wellness,Fitness Accessories,25.16,2,50.32,0,0.0,50.32,PayPal,Tablet,Platinum,6,6,1,0.0,25.159874200628995,0.11923686024704684,0,0,1,0.1311,0
+MO,Madison,1/22/2023,Winter,Sunday,Beauty & Personal Care,Skincare,39.08,1,39.08,0,0.0,39.08,Gift Card,Desktop,Bronze,4,1,1,0.0,39.07960920390796,0.1023541191519654,0,0,0,0.1436,0
+IL,Joliet,9/3/2023,Fall,Sunday,Books,Fiction,18.16,1,18.16,0,0.0,18.16,Gift Card,Tablet,Platinum,5,9,1,0.0,18.15981840181598,0.2753302448622,0,0,0,0.078,0
+KS,Salem,2/4/2022,Winter,Friday,Automotive,Car Accessories,73.02,1,73.02,0,0.0,73.02,Gift Card,Mobile,Platinum,5,2,0,0.0,73.01926980730192,0.06847438120044082,0,0,0,0.2879,0
+TX,Dallas,7/29/2024,Summer,Monday,Automotive,Electronics,193.55,1,193.55,0,0.0,193.55,Debit Card,Tablet,Gold,3,7,0,0.0,193.5480645193548,0.015499870033589767,0,0,0,0.4055,0
+AK,Springfield,10/25/2024,Fall,Friday,Books,Non-Fiction,46.32,1,46.32,0,0.0,46.32,Google Pay,Desktop,Gold,4,10,0,0.0,46.31953680463195,0.08635576719435077,0,0,0,0.3812,0
+IL,Naperville,5/20/2022,Spring,Friday,Grocery,Organic,19.47,3,58.41,5,2.92,55.49,Debit Card,Tablet,Gold,5,5,0,0.04999143126323724,18.49660501131663,0.09010630922575072,0,1,0,0.0619,0
+TN,Salem,6/19/2023,Summer,Monday,Grocery,Dairy,15.06,1,15.06,0,0.0,15.06,Debit Card,Desktop,Bronze,3,6,0,0.0,15.059849401505984,0.19920305497805113,0,0,0,0.1179,0
+WV,Bristol,7/30/2023,Summer,Sunday,Electronics,Cameras,764.27,1,764.27,5,38.21,726.06,Apple Pay,Desktop,Gold,3,7,1,0.04999541981242991,726.0527394726051,0.004131889869543979,0,0,0,0.4298,0
+WY,Georgetown,2/4/2025,Winter,Tuesday,Sports & Outdoors,Camping Gear,356.4,1,356.4,0,0.0,356.4,Debit Card,Tablet,Gold,2,2,0,0.0,356.3964360356396,0.005611672120884622,0,0,0,0.344,0
+TX,San Antonio,8/18/2022,Summer,Thursday,Home & Kitchen,Storage,267.26,1,267.26,0,0.0,267.26,Debit Card,Mobile,Bronze,6,8,0,0.0,267.2573274267257,0.022450047801764284,0,0,0,0.4491,0
+KY,Bristol,8/9/2023,Summer,Wednesday,Health & Wellness,Vitamins,93.65,1,93.65,0,0.0,93.65,Gift Card,Mobile,Platinum,2,8,0,0.0,93.64906350936491,0.021356110906982282,0,0,0,0.4612,0
+CT,Bristol,12/18/2022,Winter,Sunday,Sports & Outdoors,Water Sports,352.07,1,352.07,0,0.0,352.07,Credit Card,Desktop,Platinum,4,12,1,0.0,352.0664793352066,0.011361376676190058,0,0,0,0.3295,0
+MT,Clinton,8/26/2023,Summer,Saturday,Grocery,Dairy,39.35,1,39.35,0,0.0,39.35,Buy Now Pay Later,Tablet,Platinum,4,8,1,0.0,39.34960650393496,0.1016518166069081,0,0,0,0.0901,0
+TX,San Antonio,5/8/2022,Spring,Sunday,Clothing,Accessories,83.95,1,83.95,20,16.79,67.16,Gift Card,Desktop,Gold,2,5,1,0.19999997617629822,67.15932840671593,0.029779626298447544,1,0,0,0.2177,0
+KS,Springfield,6/1/2024,Summer,Saturday,Automotive,Tools,113.49,1,113.49,15,17.02,96.47,Credit Card,Mobile,Silver,3,6,1,0.14996914706413367,96.4690353096469,0.031097747372473578,0,0,0,0.3428,0
+OR,Madison,5/15/2024,Spring,Wednesday,Grocery,Bakery,42.41,1,42.41,0,0.0,42.41,Buy Now Pay Later,Tablet,Silver,4,5,0,0.0,42.40957590424095,0.09431735573747801,0,0,0,0.3782,0
+WI,Clinton,12/18/2022,Winter,Sunday,Beauty & Personal Care,Haircare,10.12,1,10.12,10,1.01,9.11,Buy Now Pay Later,Mobile,Platinum,2,12,1,0.09980227292265523,9.10990890091099,0.21953872718032144,0,0,1,0.1768,0
+VT,Madison,7/14/2024,Summer,Sunday,Sports & Outdoors,Cycling,406.82,1,406.82,0,0.0,406.82,Debit Card,Tablet,Gold,6,7,1,0.0,406.81593184068157,0.014748537074171942,0,0,0,0.4617,0
+KS,Madison,6/2/2022,Summer,Thursday,Home & Kitchen,Bedding,32.42,1,32.42,0,0.0,32.42,Google Pay,Mobile,Silver,3,6,0,0.0,32.419675803241965,0.09253544338820376,0,0,0,0.099,0
+SC,Springfield,3/6/2023,Spring,Monday,Beauty & Personal Care,Makeup,13.91,1,13.91,5,0.7,13.21,Credit Card,Mobile,Gold,3,3,0,0.050323472089524014,13.209867901320987,0.22710050938644255,0,0,0,0.3332,0
+KY,Madison,8/27/2022,Summer,Saturday,Books,Non-Fiction,33.24,1,33.24,0,0.0,33.24,Apple Pay,Tablet,Silver,4,8,1,0.0,33.239667603323966,0.12033690723919756,0,0,0,0.0933,0
+OH,Toledo,3/4/2024,Spring,Monday,Health & Wellness,Fitness Accessories,11.07,1,11.07,15,1.66,9.41,Credit Card,Tablet,Silver,3,3,0,0.14995469742123088,9.40990590094099,0.3188094380346036,0,0,0,0.3202,0
+OR,Madison,2/23/2023,Winter,Thursday,Books,Fiction,42.48,1,42.48,5,2.12,40.36,Google Pay,Desktop,Bronze,3,2,0,0.049905826293355396,40.359596404035955,0.0743310023956882,0,0,0,0.4225,0
+KY,Georgetown,1/24/2025,Winter,Friday,Electronics,Smartphones,516.64,1,516.64,0,0.0,516.64,Credit Card,Tablet,Bronze,5,1,0,0.0,516.6348336516635,0.009677918673004052,0,0,0,0.3874,0
+TN,Greenville,4/22/2023,Spring,Saturday,Sports & Outdoors,Fitness Equipment,340.0,1,340.0,0,0.0,340.0,Apple Pay,Mobile,Silver,3,4,1,0.0,339.99660003399964,0.008823529152249144,0,0,0,0.3753,0
+NV,Salem,9/20/2023,Fall,Wednesday,Books,Self-Help,43.2,1,43.2,0,0.0,43.2,PayPal,Desktop,Silver,4,9,0,0.0,43.19956800431996,0.09259257115912703,0,0,0,0.4032,0
+NH,Georgetown,7/27/2023,Summer,Thursday,Sports & Outdoors,Camping Gear,34.79,1,34.79,0,0.0,34.79,Google Pay,Desktop,Platinum,2,7,0,0.0,34.789652103478964,0.05748776732171103,0,0,0,0.0997,0
+CT,Georgetown,1/6/2024,Winter,Saturday,Electronics,Laptops,1027.87,2,2055.74,0,0.0,2055.74,Debit Card,Mobile,Gold,4,1,1,0.0,1027.8648606756965,0.001945771342943313,0,0,0,0.3754,0
+NC,Durham,6/17/2023,Summer,Saturday,Electronics,Cameras,746.18,1,746.18,0,0.0,746.18,PayPal,Tablet,Bronze,5,6,1,0.0,746.1725382746172,0.0067007959647699495,0,0,1,0.4277,0
+AZ,Georgetown,10/17/2024,Fall,Thursday,Grocery,Bakery,48.44,1,48.44,0,0.0,48.44,Apple Pay,Mobile,Bronze,5,10,0,0.0,48.43951560484395,0.10322045763409214,0,0,0,0.3725,0
+NE,Clinton,9/11/2022,Fall,Sunday,Health & Wellness,Mental Wellness,79.43,1,79.43,15,11.91,67.52,Credit Card,Tablet,Gold,4,9,1,0.14994332746527414,67.51932480675192,0.05924169738718937,0,0,0,0.3088,0
+IL,Aurora,9/8/2022,Fall,Thursday,Grocery,Snacks,41.81,2,83.62,5,4.18,79.44,Buy Now Pay Later,Mobile,Gold,4,9,0,0.04998803516048371,39.71980140099299,0.05035246093246967,0,0,0,0.3445,0
+AL,Georgetown,12/19/2024,Winter,Thursday,Grocery,Bakery,13.17,2,26.34,0,0.0,26.34,Apple Pay,Tablet,Gold,5,12,0,0.0,13.169934150329247,0.18982528860087752,0,0,0,0.0565,0
+NJ,Salem,2/8/2025,Winter,Saturday,Home & Kitchen,Cookware,203.14,1,203.14,0,0.0,203.14,Credit Card,Desktop,Gold,4,2,1,0.0,203.13796862031376,0.019690852629179256,0,0,0,0.3122,0
+KY,Salem,6/10/2023,Summer,Saturday,Clothing,Accessories,169.0,2,338.0,0,0.0,338.0,PayPal,Tablet,Platinum,3,6,1,0.0,168.99915500422497,0.008875739382374575,0,0,1,0.4221,0
+WY,Madison,3/28/2024,Spring,Thursday,Grocery,Bakery,48.43,1,48.43,20,9.69,38.74,Buy Now Pay Later,Mobile,Bronze,5,3,0,0.20008255212005943,38.73961260387396,0.12906553199134432,1,0,0,0.3992,0
+NV,Georgetown,9/11/2024,Fall,Wednesday,Toys & Games,Educational,64.29,1,64.29,5,3.21,61.08,Debit Card,Mobile,Gold,4,9,0,0.04992999689998492,61.07938920610793,0.06548787401966699,0,0,0,0.4586,0
+TX,San Antonio,7/3/2023,Summer,Monday,Books,Non-Fiction,12.0,1,12.0,0,0.0,12.0,Gift Card,Mobile,Gold,6,7,0,0.0,11.999880001199987,0.49999958333368055,0,0,0,0.185,0
+MA,Springfield,12/2/2023,Winter,Saturday,Beauty & Personal Care,Skincare,12.72,1,12.72,5,0.64,12.08,Google Pay,Desktop,Bronze,3,12,1,0.050314425853438795,12.079879201207987,0.24834416527800887,0,0,0,0.1687,0
+OH,Toledo,1/25/2025,Winter,Saturday,Health & Wellness,Fitness Accessories,73.2,1,73.2,0,0.0,73.2,Buy Now Pay Later,Mobile,Silver,5,1,1,0.0,73.19926800731993,0.06830600159754076,0,0,0,0.3825,0
+UT,Salem,1/30/2023,Winter,Monday,Books,Science,34.9,1,34.9,0,0.0,34.9,Credit Card,Tablet,Gold,4,1,0,0.0,34.899651003489964,0.11461314767531584,0,0,0,0.1877,0
+NV,Greenville,4/6/2022,Spring,Wednesday,Grocery,Organic,30.98,1,30.98,0,0.0,30.98,Credit Card,Tablet,Gold,1,4,0,0.0,30.979690203097967,0.03227887918693377,0,0,0,0.1286,0
+TX,Houston,9/13/2023,Fall,Wednesday,Clothing,Tops,64.62,2,129.24,0,0.0,129.24,Gift Card,Mobile,Silver,3,9,0,0.0,64.61967690161549,0.023212625873365374,0,0,0,0.6035,1
+MD,Fairview,12/25/2022,Winter,Sunday,Automotive,Car Accessories,83.13,2,166.26,20,33.25,133.01,PayPal,Desktop,Silver,4,12,1,0.19998795861975469,66.5046674766626,0.030072924586653293,1,0,0,0.2641,0
+IA,Georgetown,4/8/2024,Spring,Monday,Beauty & Personal Care,Haircare,49.77,2,99.54,10,9.95,89.59,Debit Card,Tablet,Bronze,3,4,0,0.09995980510751404,44.79477602611987,0.033485876382869026,0,0,1,0.6669,1
+SD,Bristol,3/2/2023,Spring,Thursday,Automotive,Tools,187.06,1,187.06,20,37.41,149.65,Credit Card,Mobile,Platinum,5,3,0,0.19998929755215983,149.64850351496486,0.03341129078441091,1,0,0,0.3476,0
+OK,Salem,11/6/2024,Fall,Wednesday,Grocery,Organic,15.08,1,15.08,5,0.75,14.33,Buy Now Pay Later,Tablet,Silver,5,11,0,0.049734715030029825,14.329856701432984,0.348918109617509,0,0,0,0.0882,0
+MO,Springfield,5/19/2024,Spring,Sunday,Automotive,Electronics,264.0,2,528.0,10,52.8,475.2,PayPal,Desktop,Bronze,2,5,1,0.09999999810606064,237.59881200593995,0.004208754120186151,0,0,0,0.4065,0
+AZ,Salem,1/5/2022,Winter,Wednesday,Books,History,32.23,1,32.23,15,4.83,27.4,Credit Card,Tablet,Gold,2,1,0,0.14986033203216506,27.399726002739968,0.07299267409026494,0,0,0,0.1561,0
+TX,San Antonio,11/4/2023,Fall,Saturday,Home & Kitchen,Appliances,347.4,2,694.8,5,34.74,660.06,Gift Card,Desktop,Silver,6,11,1,0.04999999928036847,330.0283498582507,0.009090082582036746,0,0,0,0.3631,0
+FL,Tampa,10/4/2023,Fall,Wednesday,Books,History,47.03,1,47.03,15,7.05,39.98,Apple Pay,Desktop,Platinum,3,10,0,0.14990428451960777,39.979600203997954,0.07503749999062032,0,0,0,0.401,0
+SC,Fairview,11/15/2022,Fall,Tuesday,Clothing,Footwear,182.17,3,546.51,0,0.0,546.51,Gift Card,Tablet,Platinum,3,11,0,0.0,182.16939276869076,0.005489377953022306,0,1,0,0.3042,0
+NJ,Salem,1/2/2024,Winter,Tuesday,Grocery,Dairy,27.48,3,82.44,10,8.24,74.2,Gift Card,Desktop,Platinum,4,1,0,0.09995146773999664,24.733250889163703,0.05390834852987216,0,1,0,0.0805,0
+OR,Clinton,12/6/2023,Winter,Wednesday,Health & Wellness,Vitamins,44.39,1,44.39,15,6.66,37.73,Gift Card,Tablet,Platinum,4,12,0,0.15003375759545898,37.729622703772954,0.10601640444834232,0,0,0,0.2729,0
+RI,Madison,10/10/2024,Fall,Thursday,Sports & Outdoors,Water Sports,29.41,2,58.82,0,0.0,58.82,PayPal,Mobile,Platinum,4,10,0,0.0,29.409852950735246,0.06800406868342933,0,0,0,0.1417,0
+NM,Fairview,7/28/2024,Summer,Sunday,Health & Wellness,Mental Wellness,60.14,1,60.14,0,0.0,60.14,Buy Now Pay Later,Tablet,Bronze,4,7,1,0.0,60.139398606013934,0.06651146216969368,0,0,0,0.3416,0
+CO,Greenville,10/25/2023,Fall,Wednesday,Grocery,Beverages,30.73,1,30.73,10,3.07,27.66,Credit Card,Tablet,Bronze,3,10,0,0.09990234301908785,27.65972340276597,0.10845983063635914,0,0,0,0.0681,0
+OH,Toledo,8/15/2023,Summer,Tuesday,Grocery,Bakery,48.79,1,48.79,0,0.0,48.79,PayPal,Tablet,Gold,6,8,0,0.0,48.789512104878945,0.12297599447099929,0,0,0,0.3081,0
+AZ,Salem,12/4/2022,Winter,Sunday,Electronics,Headphones,1098.36,1,1098.36,0,0.0,1098.36,Debit Card,Mobile,Bronze,3,12,1,0.0,1098.3490165098347,0.0027313448893682866,0,0,0,0.2898,0
+AL,Salem,2/18/2023,Winter,Saturday,Home & Kitchen,Cookware,255.89,1,255.89,0,0.0,255.89,Apple Pay,Mobile,Bronze,5,2,1,0.0,255.8874411255887,0.01953964517802004,0,0,0,0.3903,0
+WV,Greenville,1/14/2024,Winter,Sunday,Automotive,Electronics,192.49,1,192.49,0,0.0,192.49,Credit Card,Tablet,Silver,4,1,1,0.0,192.4880751192488,0.020780299195786833,0,0,0,0.4069,0
+IN,Fairview,10/22/2023,Fall,Sunday,Books,Non-Fiction,20.29,1,20.29,0,0.0,20.29,Buy Now Pay Later,Desktop,Platinum,3,10,1,0.0,20.289797102028977,0.14785601387086553,0,0,0,0.0845,0
+NJ,Clinton,8/18/2024,Summer,Sunday,Grocery,Snacks,30.5,1,30.5,20,6.1,24.4,PayPal,Tablet,Bronze,4,8,1,0.199999934426251,24.399756002439972,0.16393435904329548,1,0,0,0.0623,0
+UT,Springfield,7/22/2023,Summer,Saturday,Sports & Outdoors,Water Sports,91.66,2,183.32,0,0.0,183.32,PayPal,Mobile,Silver,3,7,1,0.0,91.65954170229148,0.016364825640146977,0,0,0,0.4397,0
+WA,Spokane,12/4/2023,Winter,Monday,Toys & Games,Outdoor Toys,120.69,1,120.69,0,0.0,120.69,Debit Card,Tablet,Platinum,3,12,0,0.0,120.68879311206886,0.024857069777357712,0,0,0,0.4105,0
+NJ,Bristol,3/13/2024,Spring,Wednesday,Health & Wellness,Medical Devices,25.3,5,126.5,0,0.0,126.5,Credit Card,Desktop,Silver,5,3,0,0.0,25.2999494001012,0.03952568857504438,0,1,0,0.2441,0
+DE,Springfield,7/22/2024,Summer,Monday,Electronics,Tablets,480.92,1,480.92,15,72.14,408.78,Buy Now Pay Later,Desktop,Gold,3,7,0,0.1500041555767247,408.7759122408775,0.007338910726089567,0,0,0,0.2981,0
+VA,Salem,5/20/2024,Spring,Monday,Automotive,Car Accessories,52.66,1,52.66,20,10.53,42.13,Apple Pay,Mobile,Gold,6,5,0,0.1999619825366535,42.12957870421296,0.14241629660187594,1,0,0,0.382,0
+LA,Fairview,10/16/2023,Fall,Monday,Electronics,Headphones,1024.65,3,3073.95,0,0.0,3073.95,Debit Card,Mobile,Gold,5,10,0,0.0,1024.6465845113848,0.001626571669589383,0,1,1,0.4284,0
+NM,Clinton,3/1/2022,Spring,Tuesday,Clothing,Accessories,140.24,1,140.24,10,14.02,126.22,Buy Now Pay Later,Desktop,Silver,4,3,0,0.09997147033860022,126.21873781262187,0.031690696269157326,0,0,1,0.5071,1
+NY,Albany,8/12/2024,Summer,Monday,Health & Wellness,Supplements,120.36,1,120.36,5,6.02,114.34,Apple Pay,Mobile,Bronze,4,8,0,0.0500166126606337,114.33885661143388,0.034983379833533335,0,0,0,0.5415,1
+NY,New York City,1/2/2023,Winter,Monday,Grocery,Dairy,29.88,3,89.64,0,0.0,89.64,Google Pay,Tablet,Bronze,4,1,0,0.0,29.879900400331998,0.04462293121118572,0,1,0,0.1392,0
+CA,Los Angeles,6/8/2022,Summer,Wednesday,Automotive,Car Accessories,217.14,1,217.14,0,0.0,217.14,Gift Card,Desktop,Silver,4,6,0,0.0,217.13782862171377,0.018421294168679464,0,0,0,0.3147,0
+OH,Cleveland,10/19/2024,Fall,Saturday,Sports & Outdoors,Water Sports,207.61,3,622.83,20,124.57,498.26,Debit Card,Mobile,Platinum,3,10,1,0.20000641908696723,166.08611304628985,0.006020952795308619,1,1,0,0.2789,0
+CO,Georgetown,2/21/2024,Winter,Wednesday,Sports & Outdoors,Water Sports,71.29,1,71.29,0,0.0,71.29,Google Pay,Mobile,Platinum,2,2,0,0.0,71.28928710712893,0.02805442165038271,0,0,0,0.3524,0
+MS,Fairview,11/20/2023,Fall,Monday,Electronics,Headphones,1055.35,1,1055.35,15,158.3,897.05,Google Pay,Desktop,Silver,4,11,0,0.14999762969633176,897.041029589704,0.004459060203343624,0,0,0,0.5306,1
+VT,Madison,8/3/2024,Summer,Saturday,Grocery,Bakery,25.13,1,25.13,10,2.51,22.62,Apple Pay,Tablet,Silver,2,8,1,0.09988058102643015,22.619773802261978,0.08841729070853638,0,0,0,0.0642,0
+AR,Bristol,7/27/2023,Summer,Thursday,Home & Kitchen,Decor,309.69,1,309.69,0,0.0,309.69,Buy Now Pay Later,Tablet,Gold,5,7,0,0.0,309.6869031309687,0.016145176914166524,0,0,0,0.465,0
+TN,Georgetown,8/14/2023,Summer,Monday,Home & Kitchen,Bedding,278.02,1,278.02,0,0.0,278.02,Credit Card,Tablet,Bronze,3,8,0,0.0,278.0172198278017,0.010790590216869643,0,0,0,0.3574,0
+OK,Bristol,8/12/2023,Summer,Saturday,Home & Kitchen,Appliances,264.79,1,264.79,0,0.0,264.79,Credit Card,Tablet,Bronze,4,8,1,0.0,264.78735212647877,0.015106310090777217,0,0,0,0.3725,0
+PA,Erie,7/20/2024,Summer,Saturday,Health & Wellness,Medical Devices,53.18,1,53.18,0,0.0,53.18,Debit Card,Desktop,Platinum,2,7,1,0.0,53.179468205317946,0.03760811628279122,0,0,0,0.3435,0
+WV,Salem,8/3/2022,Summer,Wednesday,Grocery,Organic,17.16,3,51.48,0,0.0,51.48,Gift Card,Desktop,Bronze,4,8,0,0.0,17.159942800190663,0.07770006260682545,0,1,0,0.0766,0
+WV,Clinton,2/23/2023,Winter,Thursday,Health & Wellness,Mental Wellness,111.15,1,111.15,0,0.0,111.15,Gift Card,Tablet,Silver,4,2,0,0.0,111.14888851111489,0.03598740117072414,0,0,0,0.5107,1
+AL,Springfield,1/11/2024,Winter,Thursday,Grocery,Bakery,31.37,1,31.37,5,1.57,29.8,Gift Card,Desktop,Bronze,2,1,0,0.05004780043104864,29.79970200297997,0.06711407143823106,0,0,0,0.0514,0
+LA,Georgetown,10/26/2024,Fall,Saturday,Toys & Games,Educational,113.91,1,113.91,10,11.39,102.52,PayPal,Mobile,Platinum,4,10,1,0.09999121236140705,102.51897481025189,0.03901677340843022,0,0,0,0.4721,1
+NM,Madison,11/10/2024,Fall,Sunday,Electronics,Smartphones,714.1,2,1428.2,0,0.0,1428.2,PayPal,Desktop,Silver,3,11,1,0.0,714.0964295178524,0.0021005461272892724,0,0,0,0.4182,0
+OH,Toledo,12/22/2024,Winter,Sunday,Beauty & Personal Care,Fragrances,72.06,1,72.06,0,0.0,72.06,Apple Pay,Desktop,Gold,6,12,1,0.0,72.05927940720592,0.08326393515626766,0,0,0,0.3529,0
+WI,Madison,8/21/2024,Summer,Wednesday,Health & Wellness,Vitamins,14.29,1,14.29,5,0.71,13.58,Buy Now Pay Later,Mobile,Bronze,2,8,0,0.04968505970254745,13.579864201357985,0.14727529655721902,0,0,0,0.2253,0
+UT,Salem,2/7/2025,Winter,Friday,Health & Wellness,Medical Devices,90.42,1,90.42,0,0.0,90.42,Apple Pay,Mobile,Platinum,2,2,0,0.0,90.4190958090419,0.022118997774939416,0,0,0,0.4027,0
+IA,Bristol,2/22/2022,Winter,Tuesday,Grocery,Dairy,31.98,1,31.98,0,0.0,31.98,Gift Card,Desktop,Platinum,4,2,0,0.0,31.979680203197965,0.12507813474729995,0,0,0,0.0263,0
+ID,Georgetown,7/27/2023,Summer,Thursday,Electronics,Cameras,1049.76,2,2099.52,5,104.98,1994.54,Credit Card,Mobile,Platinum,2,7,0,0.0500019049592197,997.2650136749315,0.0010027374682747027,0,0,0,0.2965,0
+NC,Durham,2/15/2023,Winter,Wednesday,Sports & Outdoors,Fitness Equipment,486.27,1,486.27,15,72.94,413.33,Google Pay,Mobile,Platinum,1,2,0,0.14999896867997267,413.32586674133256,0.0024193742912594226,0,0,0,0.3073,0
+NC,Durham,2/28/2024,Winter,Wednesday,Sports & Outdoors,Cycling,150.56,1,150.56,5,7.53,143.03,Buy Now Pay Later,Mobile,Silver,4,2,0,0.050013280418884136,143.02856971430285,0.02796615898999098,0,0,0,0.4504,0
+SD,Georgetown,5/4/2023,Spring,Thursday,Beauty & Personal Care,Haircare,43.4,1,43.4,0,0.0,43.4,PayPal,Desktop,Silver,1,5,0,0.0,43.39956600433995,0.02304146934528356,0,0,0,0.3828,0
+MA,Bristol,1/27/2025,Winter,Monday,Home & Kitchen,Bedding,86.27,1,86.27,0,0.0,86.27,PayPal,Tablet,Platinum,3,1,0,0.0,86.26913730862691,0.034774541002139676,0,0,1,0.6666,1
+PA,Allentown,4/1/2022,Spring,Friday,Automotive,Parts,264.46,1,264.46,0,0.0,264.46,Gift Card,Desktop,Platinum,3,4,0,0.0,264.4573554264457,0.011343870099679723,0,0,0,0.3017,0
+KS,Greenville,1/24/2022,Winter,Monday,Electronics,Smartphones,213.75,1,213.75,20,42.75,171.0,Buy Now Pay Later,Mobile,Gold,3,1,0,0.19999999064327528,170.9982900170998,0.017543858623166163,1,0,0,0.3011,0
+WI,Georgetown,4/9/2024,Spring,Tuesday,Clothing,Bottoms,135.49,5,677.45,5,33.87,643.58,Buy Now Pay Later,Tablet,Bronze,3,4,0,0.04999630895274471,128.71574256851488,0.004661425080620512,0,1,0,0.3742,0
+WA,Spokane,6/4/2023,Summer,Sunday,Clothing,Tops,125.95,2,251.9,0,0.0,251.9,Google Pay,Tablet,Gold,2,6,1,0.0,125.94937025314873,0.007939658279489548,0,0,0,0.542,1
+NV,Bristol,12/5/2023,Winter,Tuesday,Books,Science,10.64,1,10.64,0,0.0,10.64,PayPal,Mobile,Silver,5,12,0,0.0,10.639893601063989,0.4699243703718323,0,0,0,0.1481,0
+MI,Georgetown,9/4/2022,Fall,Sunday,Electronics,Smartphones,1031.6,1,1031.6,15,154.74,876.86,Gift Card,Tablet,Gold,3,9,1,0.1499999985459481,876.851231487685,0.0034212986859783923,0,0,0,0.3873,0
+KS,Springfield,8/2/2023,Summer,Wednesday,Books,History,43.57,1,43.57,10,4.36,39.21,Google Pay,Tablet,Bronze,5,8,0,0.10006883174917793,39.20960790392096,0.12751845765915387,0,0,0,0.4719,1
+ND,Greenville,8/11/2022,Summer,Thursday,Sports & Outdoors,Cycling,351.82,1,351.82,0,0.0,351.82,PayPal,Mobile,Gold,4,8,0,0.0,351.8164818351816,0.01136944996391763,0,0,1,0.435,0
+WI,Bristol,5/11/2024,Spring,Saturday,Clothing,Accessories,14.53,1,14.53,0,0.0,14.53,Credit Card,Tablet,Bronze,4,5,1,0.0,14.529854701452983,0.2752923088146533,0,0,0,0.249,0
+NY,Rochester,12/26/2024,Winter,Thursday,Sports & Outdoors,Fitness Equipment,412.73,3,1238.19,10,123.82,1114.37,Debit Card,Desktop,Bronze,3,12,0,0.10000080682285588,371.455428481905,0.0026921040346374724,0,1,1,0.3242,0
+NE,Bristol,5/24/2022,Spring,Tuesday,Clothing,Bottoms,122.37,2,244.74,0,0.0,244.74,Apple Pay,Tablet,Bronze,3,5,0,0.0,122.36938815305923,0.012257905848741282,0,0,0,0.4828,1
+AR,Salem,9/18/2022,Fall,Sunday,Automotive,Tools,117.02,1,117.02,15,17.55,99.47,PayPal,Mobile,Bronze,4,9,1,0.1499743505405614,99.4690053099469,0.04021312554407102,0,0,0,0.4656,0
+NY,New York City,6/2/2024,Summer,Sunday,Clothing,Outerwear,133.74,1,133.74,0,0.0,133.74,Apple Pay,Desktop,Gold,3,6,1,0.0,133.73866261337386,0.02243158199255406,0,0,0,0.5088,1
+VT,Georgetown,10/8/2024,Fall,Tuesday,Toys & Games,Puzzles,141.71,1,141.71,5,7.09,134.62,PayPal,Tablet,Gold,6,10,0,0.050031751462017396,134.61865381346186,0.044569897149762505,0,0,1,0.4309,0
+OK,Bristol,3/13/2023,Spring,Monday,Automotive,Car Care,154.12,1,154.12,10,15.41,138.71,Buy Now Pay Later,Tablet,Gold,3,3,0,0.09998701661127585,138.70861291387087,0.021627855120189235,0,0,0,0.4073,0
+LA,Fairview,1/25/2025,Winter,Saturday,Clothing,Bottoms,97.18,1,97.18,5,4.86,92.32,Apple Pay,Desktop,Bronze,5,1,1,0.05001028503701533,92.3190768092319,0.05415943954078861,0,0,0,0.5356,1
+TX,San Antonio,6/20/2022,Summer,Monday,Beauty & Personal Care,Oral Care,12.6,1,12.6,20,2.52,10.08,Buy Now Pay Later,Mobile,Platinum,3,6,0,0.19999984126996725,10.07989920100799,0.29761875236234886,1,0,0,0.3245,0
+NH,Bristol,5/16/2022,Spring,Monday,Health & Wellness,Fitness Accessories,27.95,1,27.95,5,1.4,26.55,Apple Pay,Mobile,Bronze,2,5,0,0.050089427517199456,26.54973450265497,0.07532953848228306,0,0,0,0.1082,0
+MS,Fairview,2/7/2025,Winter,Friday,Toys & Games,Outdoor Toys,88.33,1,88.33,10,8.83,79.5,Credit Card,Mobile,Silver,5,2,0,0.09996602513687024,79.49920500794991,0.06289307384992782,0,0,0,0.3466,0
+SD,Clinton,12/29/2023,Winter,Friday,Electronics,Smartphones,191.72,1,191.72,0,0.0,191.72,Apple Pay,Desktop,Gold,3,12,0,0.0,191.7180828191718,0.015647818920935797,0,0,0,0.3644,0
+IL,Joliet,2/7/2025,Winter,Friday,Sports & Outdoors,Cycling,151.33,1,151.33,0,0.0,151.33,Apple Pay,Tablet,Silver,4,2,0,0.0,151.32848671513284,0.026432298524264947,0,0,0,0.4681,0
+WV,Georgetown,1/2/2024,Winter,Tuesday,Clothing,Accessories,33.68,1,33.68,0,0.0,33.68,Debit Card,Tablet,Silver,7,1,0,0.0,33.679663203367966,0.20783841810023213,0,0,0,0.1555,0
+RI,Springfield,3/7/2024,Spring,Thursday,Electronics,Tablets,668.19,1,668.19,20,133.64,534.55,PayPal,Desktop,Gold,6,3,0,0.20000299016742257,534.5446545534544,0.011224394140409802,1,0,0,0.402,0
+ID,Springfield,8/8/2023,Summer,Tuesday,Health & Wellness,Medical Devices,102.55,4,410.2,0,0.0,410.2,Buy Now Pay Later,Mobile,Gold,5,8,0,0.0,102.54974362564094,0.012189175714549593,0,1,0,0.4038,0
+WV,Salem,5/26/2022,Spring,Thursday,Electronics,Smartphones,362.81,1,362.81,0,0.0,362.81,Gift Card,Desktop,Silver,5,5,0,0.0,362.80637193628064,0.013781317665408405,0,0,0,0.3409,0
+NM,Springfield,12/2/2022,Winter,Friday,Electronics,Smartphones,701.36,2,1402.72,0,0.0,1402.72,Debit Card,Mobile,Bronze,4,12,0,0.0,701.3564932175339,0.0028516025803324786,0,0,0,0.3658,0
+NV,Clinton,10/10/2022,Fall,Monday,Grocery,Snacks,47.89,3,143.67,0,0.0,143.67,Google Pay,Desktop,Gold,6,10,0,0.0,47.88984036719877,0.041762369195909435,0,1,0,0.451,0
+HI,Georgetown,11/10/2023,Fall,Friday,Automotive,Parts,246.7,4,986.8,0,0.0,986.8,Apple Pay,Mobile,Silver,4,11,0,0.0,246.6993832515419,0.004053506241857456,0,1,0,0.4249,0
+ND,Bristol,12/25/2024,Winter,Wednesday,Electronics,Tablets,1198.84,5,5994.2,0,0.0,5994.2,Buy Now Pay Later,Tablet,Bronze,3,12,0,0.0,1198.8376023247954,0.000500483800172694,0,1,0,0.2989,0
+TN,Springfield,10/27/2023,Fall,Friday,Clothing,Outerwear,79.78,2,159.56,15,23.93,135.63,PayPal,Mobile,Gold,3,10,0,0.14997492166113552,67.81466092669537,0.02211899859035622,0,0,0,0.4398,0
+VA,Clinton,12/19/2024,Winter,Thursday,Automotive,Car Accessories,116.67,1,116.67,0,0.0,116.67,Buy Now Pay Later,Desktop,Silver,2,12,0,0.0,116.66883331166687,0.017142365891628875,0,0,0,0.3431,0
+WI,Bristol,5/3/2023,Spring,Wednesday,Electronics,Smartphones,750.33,1,750.33,0,0.0,750.33,Google Pay,Desktop,Gold,4,5,0,0.0,750.3224967750323,0.005330987627697311,0,0,0,0.4509,0
+NY,New York City,1/7/2023,Winter,Saturday,Clothing,Bottoms,52.54,1,52.54,0,0.0,52.54,Apple Pay,Mobile,Platinum,4,1,1,0.0,52.53947460525394,0.07613245600828777,0,0,0,0.3793,0
+NY,Albany,4/30/2022,Spring,Saturday,Home & Kitchen,Appliances,269.9,1,269.9,0,0.0,269.9,Credit Card,Mobile,Bronze,6,4,1,0.0,269.8973010269897,0.022230454900687115,0,0,0,0.3085,0
+FL,Miami,9/28/2022,Fall,Wednesday,Clothing,Footwear,93.84,5,469.2,0,0.0,469.2,Gift Card,Tablet,Silver,2,9,0,0.0,93.83981232037536,0.004262574504207705,0,1,0,0.4776,1
+MS,Salem,7/9/2023,Summer,Sunday,Health & Wellness,Medical Devices,104.39,2,208.78,0,0.0,208.78,Debit Card,Tablet,Gold,1,7,1,0.0,104.38947805260973,0.004789730587712876,0,0,0,0.4392,0
+NH,Greenville,3/16/2023,Spring,Thursday,Toys & Games,Educational,149.05,2,298.1,0,0.0,298.1,Apple Pay,Mobile,Gold,5,3,0,0.0,149.04925475372625,0.016772894439017295,0,0,0,0.4533,0
+KS,Greenville,10/3/2024,Fall,Thursday,Home & Kitchen,Cookware,115.82,1,115.82,5,5.79,110.03,PayPal,Tablet,Bronze,4,10,0,0.049991361596325196,110.02889971100288,0.036353718408277884,0,0,0,0.5848,1
+ME,Fairview,3/13/2023,Spring,Monday,Home & Kitchen,Appliances,398.85,1,398.85,0,0.0,398.85,Gift Card,Mobile,Silver,3,3,0,0.0,398.8460115398846,0.007521624482346133,0,0,0,0.3629,0
+RI,Clinton,3/10/2023,Spring,Friday,Toys & Games,Action Figures,64.76,2,129.52,0,0.0,129.52,PayPal,Tablet,Bronze,4,3,0,0.0,64.759676201619,0.030883258887950977,0,0,0,0.6171,1
+AK,Fairview,7/24/2022,Summer,Sunday,Books,History,29.19,1,29.19,15,4.38,24.81,Apple Pay,Tablet,Gold,3,7,1,0.15005133605641108,24.809751902480972,0.12091893554254916,0,0,0,0.0975,0
+CA,Los Angeles,10/24/2022,Fall,Monday,Grocery,Organic,42.48,1,42.48,15,6.37,36.11,Gift Card,Mobile,Bronze,3,10,0,0.14995288372107257,36.109638903610964,0.08307945636126934,0,0,0,0.4065,0
+VA,Clinton,7/9/2023,Summer,Sunday,Clothing,Accessories,65.32,1,65.32,0,0.0,65.32,Buy Now Pay Later,Tablet,Silver,5,7,1,0.0,65.31934680653193,0.07654622220664081,0,0,0,0.4138,0
+WI,Springfield,8/21/2023,Summer,Monday,Automotive,Car Accessories,122.59,1,122.59,0,0.0,122.59,Buy Now Pay Later,Tablet,Bronze,4,8,0,0.0,122.58877411225887,0.03262908617105097,0,0,0,0.3836,0
+IN,Greenville,5/8/2023,Spring,Monday,Automotive,Car Care,17.78,1,17.78,5,0.89,16.89,Debit Card,Tablet,Bronze,2,5,0,0.0500562148165271,16.889831101688983,0.11841319217691404,0,0,0,0.0952,0
+IN,Georgetown,9/2/2023,Fall,Saturday,Books,Self-Help,20.23,1,20.23,5,1.01,19.22,Apple Pay,Desktop,Silver,5,9,1,0.04992582801491448,19.219807801921977,0.2601455462302049,0,0,0,0.108,0
+CA,Los Angeles,6/8/2022,Summer,Wednesday,Automotive,Car Accessories,217.14,1,217.14,0,0.0,217.14,Gift Card,Desktop,Silver,4,6,0,0.0,217.13782862171377,0.018421294168679464,0,0,0,0.3147,0
+OK,Springfield,3/18/2022,Spring,Friday,Home & Kitchen,Bedding,88.71,1,88.71,10,8.87,79.84,Google Pay,Desktop,Gold,3,3,0,0.09998871604230458,79.83920160798392,0.03757514559429539,0,0,0,0.3469,0
+KS,Springfield,3/31/2022,Spring,Thursday,Home & Kitchen,Appliances,257.96,1,257.96,0,0.0,257.96,Gift Card,Tablet,Platinum,3,3,0,0.0,257.9574204257957,0.011629709581729356,0,0,0,0.3512,0
+SC,Madison,5/9/2024,Spring,Thursday,Sports & Outdoors,Water Sports,258.73,1,258.73,0,0.0,258.73,Gift Card,Tablet,Silver,5,5,0,0.0,258.72741272587274,0.019325164483238726,0,0,0,0.3706,0
+WI,Bristol,3/6/2022,Spring,Sunday,Clothing,Bottoms,163.77,1,163.77,0,0.0,163.77,Credit Card,Mobile,Bronze,3,3,1,0.0,163.76836231637682,0.018318372209905828,0,0,0,0.3699,0
+TN,Springfield,7/5/2023,Summer,Wednesday,Health & Wellness,Supplements,50.83,1,50.83,25,12.71,38.12,Gift Card,Tablet,Bronze,3,7,0,0.2500491343598005,38.11961880381196,0.07869882510524,1,0,0,0.1588,0
+AL,Bristol,5/26/2024,Spring,Sunday,Beauty & Personal Care,Makeup,67.79,1,67.79,0,0.0,67.79,Buy Now Pay Later,Mobile,Silver,2,5,1,0.0,67.78932210677894,0.02950287217836374,0,0,0,0.3828,0
+ID,Fairview,4/11/2023,Spring,Tuesday,Books,Fiction,6.53,1,6.53,15,0.98,5.55,Gift Card,Tablet,Platinum,5,4,0,0.15007633985246577,5.549944500554994,0.9008992776589593,0,0,0,0.1412,0
+LA,Greenville,3/14/2022,Spring,Monday,Books,History,27.92,4,111.68,0,0.0,111.68,Gift Card,Desktop,Platinum,1,3,0,0.0,27.919930200174505,0.008954153926024899,0,1,0,0.2261,0
+WY,Fairview,6/21/2022,Summer,Tuesday,Clothing,Bottoms,192.09,3,576.27,0,0.0,576.27,Debit Card,Mobile,Gold,1,6,0,0.0,192.08935970213432,0.0017352976602061942,0,1,0,0.3595,0
+GA,Augusta,6/3/2022,Summer,Friday,Health & Wellness,Fitness Accessories,6.98,1,6.98,15,1.05,5.93,Google Pay,Desktop,Platinum,3,6,0,0.15042958391177091,5.929940700592994,0.5059013391208447,0,0,0,0.2172,0
+KS,Greenville,7/7/2023,Summer,Friday,Toys & Games,Puzzles,104.09,1,104.09,0,0.0,104.09,Google Pay,Mobile,Gold,5,7,0,0.0,104.0889591104089,0.0480353494057691,0,0,0,0.6169,1
+TX,Dallas,10/11/2022,Fall,Tuesday,Automotive,Parts,172.47,1,172.47,15,25.87,146.6,Buy Now Pay Later,Tablet,Silver,4,10,0,0.14999709224809576,146.59853401465983,0.027285127743170004,0,0,0,0.2959,0
+SD,Clinton,8/11/2022,Summer,Thursday,Health & Wellness,Mental Wellness,98.35,2,196.7,0,0.0,196.7,Gift Card,Tablet,Bronze,3,8,0,0.0,98.34950825245873,0.015251651486952136,0,0,0,0.4468,0
+AR,Bristol,4/7/2023,Spring,Friday,Sports & Outdoors,Cycling,139.75,1,139.75,0,0.0,139.75,PayPal,Mobile,Silver,3,4,0,0.0,139.74860251397484,0.021466903651742135,0,0,0,0.4885,1
+PA,Philadelphia,11/13/2024,Fall,Wednesday,Books,Science,14.23,1,14.23,0,0.0,14.23,Apple Pay,Mobile,Platinum,5,11,0,0.0,14.229857701422985,0.3513700974208732,0,0,0,0.2718,0
+GA,Macon,9/6/2022,Fall,Tuesday,Automotive,Car Accessories,111.84,4,447.36,15,67.1,380.26,Debit Card,Mobile,Gold,3,9,0,0.14999105530241738,95.06476233809416,0.007889338665930189,0,1,0,0.3526,0
+OR,Salem,4/11/2022,Spring,Monday,Books,Non-Fiction,48.05,1,48.05,5,2.4,45.65,Gift Card,Mobile,Gold,2,4,0,0.049947960468686686,45.64954350456495,0.04381160047938653,0,0,0,0.361,0
+KY,Clinton,11/23/2024,Fall,Saturday,Health & Wellness,Supplements,69.42,1,69.42,0,0.0,69.42,Google Pay,Mobile,Gold,2,11,1,0.0,69.41930580694192,0.028810137019571157,0,0,0,0.378,0
+VT,Clinton,1/28/2025,Winter,Tuesday,Electronics,Smartphones,423.82,2,847.64,10,84.76,762.88,Google Pay,Desktop,Platinum,2,1,0,0.09999527983583503,381.43809280953593,0.00262164426093692,0,0,0,0.2681,0
+IN,Salem,6/4/2022,Summer,Saturday,Grocery,Dairy,47.54,1,47.54,20,9.51,38.03,PayPal,Mobile,Bronze,4,6,1,0.2000420277572512,38.02961970380296,0.10518009330000175,1,0,0,0.2808,0
+ND,Fairview,5/5/2024,Spring,Sunday,Electronics,Laptops,268.15,1,268.15,0,0.0,268.15,Debit Card,Desktop,Gold,4,5,1,0.0,268.1473185268147,0.014917023497407294,0,0,0,0.4148,0
+WY,Springfield,3/1/2022,Spring,Tuesday,Toys & Games,Action Figures,124.03,1,124.03,0,0.0,124.03,Buy Now Pay Later,Mobile,Gold,1,3,0,0.0,124.02875971240287,0.008062564858295181,0,0,0,0.3786,0
+MD,Georgetown,7/29/2024,Summer,Monday,Toys & Games,Outdoor Toys,60.88,2,121.76,0,0.0,121.76,Apple Pay,Desktop,Gold,5,7,0,0.0,60.879695601521995,0.04106438558932444,0,0,0,0.5865,1
+GA,Atlanta,7/26/2023,Summer,Wednesday,Automotive,Car Accessories,262.62,1,262.62,5,13.13,249.49,Gift Card,Desktop,Bronze,5,7,0,0.049996190313144846,249.48750512494874,0.020040882598866383,0,0,0,0.3273,0
+RI,Clinton,11/12/2024,Fall,Tuesday,Beauty & Personal Care,Makeup,57.61,1,57.61,0,0.0,57.61,Google Pay,Mobile,Gold,3,11,0,0.0,57.60942390576094,0.05207428361841978,0,0,0,0.4166,0
+NH,Bristol,1/2/2025,Winter,Thursday,Beauty & Personal Care,Oral Care,7.57,1,7.57,20,1.51,6.06,PayPal,Tablet,Bronze,3,1,0,0.19947133491237132,6.059939400605993,0.49504868803846863,1,0,0,0.2403,0
+AK,Fairview,5/26/2024,Spring,Sunday,Automotive,Car Care,14.89,2,29.78,0,0.0,29.78,Google Pay,Mobile,Platinum,3,5,1,0.0,14.889925550372249,0.10073871701184788,0,0,0,0.1712,0
+CO,Springfield,6/23/2023,Summer,Friday,Sports & Outdoors,Water Sports,317.89,1,317.89,10,31.79,286.1,Buy Now Pay Later,Desktop,Bronze,3,6,0,0.1000031425963968,286.0971390286097,0.010485843743941148,0,0,0,0.3393,0
+IL,Naperville,11/10/2024,Fall,Sunday,Clothing,Tops,32.51,1,32.51,15,4.88,27.63,Google Pay,Tablet,Bronze,3,11,1,0.15010761300903935,27.62972370276297,0.1085775937106067,0,0,0,0.2141,0
+MA,Salem,11/2/2023,Fall,Thursday,Health & Wellness,Fitness Accessories,121.26,1,121.26,10,12.13,109.13,PayPal,Desktop,Silver,4,11,0,0.10003297872068459,109.12890871091288,0.036653529125489866,0,0,0,0.4896,1
+WY,Salem,3/18/2024,Spring,Monday,Health & Wellness,Fitness Accessories,24.54,1,24.54,0,0.0,24.54,Google Pay,Mobile,Gold,6,3,0,0.0,24.53975460245397,0.2444986778733994,0,0,0,0.1219,0
+VT,Fairview,8/21/2024,Summer,Wednesday,Books,History,27.63,1,27.63,0,0.0,27.63,Buy Now Pay Later,Tablet,Bronze,3,8,0,0.0,27.62972370276297,0.1085775937106067,0,0,0,0.108,0
+MO,Greenville,5/23/2023,Spring,Tuesday,Automotive,Parts,135.41,1,135.41,0,0.0,135.41,Gift Card,Tablet,Platinum,4,5,0,0.0,135.40864591354085,0.029539913629723535,0,0,0,0.3998,0
+NC,Raleigh,1/26/2022,Winter,Wednesday,Beauty & Personal Care,Fragrances,8.34,2,16.68,0,0.0,16.68,Debit Card,Mobile,Bronze,3,1,0,0.0,8.3399583002085,0.1798560072805712,0,0,0,0.2416,0
+AK,Georgetown,6/6/2023,Summer,Tuesday,Automotive,Electronics,228.79,1,228.79,10,22.88,205.91,Debit Card,Tablet,Gold,3,6,0,0.10000436644939173,205.9079409205908,0.014569471391895907,0,0,0,0.3162,0
+DE,Salem,8/15/2023,Summer,Tuesday,Toys & Games,Educational,26.17,1,26.17,0,0.0,26.17,PayPal,Desktop,Bronze,3,8,0,0.0,26.169738302616974,0.11463503452998298,0,0,0,0.1314,0
+ND,Salem,5/13/2022,Spring,Friday,Clothing,Footwear,55.79,1,55.79,20,11.16,44.63,Google Pay,Desktop,Platinum,4,5,0,0.20003581286327068,44.62955370446296,0.08962579215196231,1,0,0,0.227,0
+OH,Toledo,4/1/2024,Spring,Monday,Beauty & Personal Care,Skincare,84.78,1,84.78,0,0.0,84.78,Buy Now Pay Later,Mobile,Bronze,2,4,0,0.0,84.77915220847791,0.023590466667791143,0,0,0,0.401,0
+PA,Allentown,12/6/2024,Winter,Friday,Health & Wellness,Mental Wellness,62.2,2,124.4,5,6.22,118.18,Google Pay,Tablet,Gold,3,12,0,0.049999995980707715,59.08970455147725,0.025385003775173144,0,0,0,0.3741,0
+KY,Madison,9/6/2023,Fall,Wednesday,Toys & Games,Action Figures,23.19,1,23.19,5,1.16,22.03,Apple Pay,Desktop,Gold,3,9,0,0.0500215394473741,22.029779702202976,0.1361778773591115,0,0,0,0.1111,0
+KY,Fairview,4/14/2023,Spring,Friday,Books,Non-Fiction,26.74,2,53.48,5,2.67,50.81,PayPal,Tablet,Gold,7,4,0,0.049925196349065754,25.404872975635122,0.13776812876045486,0,0,0,0.1014,0
+NV,Bristol,4/6/2022,Spring,Wednesday,Health & Wellness,Supplements,16.11,1,16.11,0,0.0,16.11,Apple Pay,Desktop,Platinum,5,4,0,0.0,16.10983890161098,0.3103660394996651,0,0,1,0.2316,0
+WV,Clinton,6/5/2023,Summer,Monday,Automotive,Parts,69.22,1,69.22,0,0.0,69.22,Apple Pay,Desktop,Bronze,5,6,0,0.0,69.21930780692192,0.07223344810265124,0,0,0,0.4014,0
+WV,Georgetown,12/13/2024,Winter,Friday,Grocery,Organic,45.81,1,45.81,0,0.0,45.81,Debit Card,Tablet,Platinum,4,12,0,0.0,45.80954190458095,0.08731716059437664,0,0,0,0.2248,0
+SC,Greenville,5/8/2022,Spring,Sunday,Grocery,Snacks,8.38,2,16.76,0,0.0,16.76,Apple Pay,Tablet,Platinum,3,5,1,0.0,8.3799581002095,0.17899750656473354,0,0,0,0.1237,0
+MO,Fairview,8/15/2022,Summer,Monday,Home & Kitchen,Appliances,54.54,1,54.54,0,0.0,54.54,Gift Card,Tablet,Bronze,4,8,0,0.0,54.53945460545394,0.07334065395294206,0,0,0,0.3652,0
+NH,Salem,10/22/2023,Fall,Sunday,Sports & Outdoors,Fitness Equipment,381.39,1,381.39,0,0.0,381.39,Buy Now Pay Later,Desktop,Silver,5,10,1,0.0,381.38618613813856,0.013109939612733958,0,0,0,0.3491,0
+HI,Fairview,5/26/2022,Spring,Thursday,Beauty & Personal Care,Fragrances,45.3,1,45.3,0,0.0,45.3,Credit Card,Mobile,Bronze,3,5,0,0.0,45.29954700452995,0.06622515094367529,0,0,1,0.4115,0
+AL,Greenville,5/25/2022,Spring,Wednesday,Automotive,Tools,237.48,1,237.48,0,0.0,237.48,Debit Card,Desktop,Silver,4,5,0,0.0,237.47762522374774,0.016843522955890058,0,0,0,0.4455,0
+ND,Salem,9/27/2023,Fall,Wednesday,Automotive,Car Accessories,13.8,1,13.8,10,1.38,12.42,Apple Pay,Mobile,Bronze,3,9,0,0.09999992753628438,12.419875801241986,0.24154569923856745,0,0,0,0.1374,0
+UT,Greenville,1/31/2025,Winter,Friday,Beauty & Personal Care,Makeup,73.86,1,73.86,15,11.08,62.78,Credit Card,Mobile,Silver,4,1,0,0.1500135188175577,62.779372206277934,0.06371454862781958,0,0,0,0.3083,0
+OH,Columbus,8/8/2023,Summer,Tuesday,Electronics,Cameras,124.6,1,124.6,0,0.0,124.6,PayPal,Mobile,Platinum,5,8,0,0.0,124.59875401245986,0.040128407694349305,0,0,0,0.4995,1
+AK,Salem,12/16/2023,Winter,Saturday,Home & Kitchen,Cookware,172.22,1,172.22,15,25.83,146.39,Apple Pay,Mobile,Platinum,2,12,1,0.1499825717116147,146.38853611463884,0.01366213445849208,0,0,0,0.2628,0
+TX,Austin,3/5/2024,Spring,Tuesday,Home & Kitchen,Decor,386.66,1,386.66,0,0.0,386.66,Apple Pay,Mobile,Bronze,4,3,0,0.0,386.6561334386656,0.010345005680830558,0,0,0,0.3998,0
+OK,Fairview,4/23/2023,Spring,Sunday,Grocery,Bakery,38.22,1,38.22,0,0.0,38.22,Credit Card,Tablet,Bronze,5,4,1,0.0,38.21961780382196,0.1308215251644361,0,0,0,0.149,0
+VT,Madison,6/19/2023,Summer,Monday,Health & Wellness,Fitness Accessories,88.51,1,88.51,0,0.0,88.51,Google Pay,Tablet,Silver,1,6,0,0.0,88.5091149088509,0.011298157123697082,0,0,0,0.516,1
+AZ,Georgetown,11/3/2022,Fall,Thursday,Sports & Outdoors,Camping Gear,405.0,2,810.0,0,0.0,810.0,PayPal,Tablet,Silver,1,11,0,0.0,404.99797501012495,0.001234567885992989,0,0,0,0.4091,0
+MN,Clinton,6/8/2022,Summer,Wednesday,Clothing,Outerwear,163.04,1,163.04,20,32.61,130.43,Gift Card,Desktop,Silver,1,6,0,0.20001225466068115,130.42869571304286,0.0076669472002647236,1,0,0,0.2474,0
+OK,Fairview,1/19/2022,Winter,Wednesday,Sports & Outdoors,Cycling,473.45,1,473.45,5,23.67,449.78,Apple Pay,Mobile,Silver,4,1,0,0.04999471855539723,449.7755022449775,0.008893236495770455,0,0,0,0.5192,1
+IN,Bristol,6/3/2022,Summer,Friday,Beauty & Personal Care,Skincare,37.33,1,37.33,0,0.0,37.33,Debit Card,Desktop,Silver,5,6,0,0.0,37.329626703732956,0.13394049452437864,0,0,0,0.1402,0
+CT,Bristol,1/28/2024,Winter,Sunday,Books,Non-Fiction,11.58,1,11.58,0,0.0,11.58,Gift Card,Tablet,Bronze,3,1,1,0.0,11.579884201157988,0.25906713379349416,0,0,0,0.2424,0
+AZ,Madison,11/9/2023,Fall,Thursday,Sports & Outdoors,Water Sports,197.08,1,197.08,0,0.0,197.08,Apple Pay,Tablet,Gold,3,11,0,0.0,197.07802921970782,0.01522224400130688,0,0,0,0.4617,0
+CA,San Francisco,1/12/2023,Winter,Thursday,Home & Kitchen,Appliances,375.09,1,375.09,0,0.0,375.09,Credit Card,Mobile,Platinum,4,1,0,0.0,375.08624913750856,0.010664106996611295,0,0,0,0.4482,0
+DE,Bristol,4/21/2022,Spring,Thursday,Sports & Outdoors,Cycling,206.34,3,619.02,0,0.0,619.02,Credit Card,Desktop,Bronze,7,4,0,0.0,206.33931220229266,0.011308196644564044,0,1,0,0.4115,0
+MO,Greenville,8/5/2022,Summer,Friday,Beauty & Personal Care,Skincare,56.69,1,56.69,0,0.0,56.69,Gift Card,Mobile,Bronze,5,8,0,0.0,56.68943310566894,0.08819896133375175,0,0,0,0.3769,0
+AZ,Springfield,7/22/2023,Summer,Saturday,Electronics,Tablets,1028.51,1,1028.51,0,0.0,1028.51,PayPal,Desktop,Bronze,2,7,1,0.0,1028.4997150028498,0.0019445605590168247,0,0,0,0.3412,0
+ID,Springfield,11/6/2022,Fall,Sunday,Beauty & Personal Care,Haircare,81.45,2,162.9,5,8.14,154.76,Gift Card,Mobile,Silver,1,11,1,0.04996930325541417,77.37961310193448,0.006461617571619439,0,0,0,0.3884,0
+AL,Bristol,1/31/2023,Winter,Tuesday,Clothing,Accessories,147.71,1,147.71,10,14.77,132.94,Debit Card,Tablet,Platinum,4,1,0,0.09999322320809537,132.93867061329385,0.030088759584116175,0,0,0,0.5208,1

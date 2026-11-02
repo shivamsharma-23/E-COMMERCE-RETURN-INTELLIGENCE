@@ -1,0 +1,25 @@
+{
+  "project_name": "E-Commerce Return Intelligence",
+  "training_timestamp": "2026-11-02T15:30:39.067037",
+  "selected_model": "Random Forest Classifier",
+  "optimal_threshold": 0.47,
+  "selection_reason": "Random Forest selected based on superior Validation F1-score (0.2692 vs 0.1475) and ROC-AUC (0.5983 vs 0.4991), effectively capturing non-linear interactions.",
+  "dataset": {
+    "total_clean_samples": 1980,
+    "train_samples": 1386,
+    "val_samples": 297,
+    "test_samples": 297,
+    "positive_rate": 0.0636
+  },
+  "hyperparameters": {
+    "Logistic Regression": {
+      "C": 0.5,
+      "class_weight": "balanced"
+    },
+    "Random Forest": {
+      "n_estimators": 250,
+      "max_depth": 10,
+      "min_samples_split": 4
+    }
+  }
+}
